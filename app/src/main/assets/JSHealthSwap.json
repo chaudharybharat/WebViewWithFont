@@ -1,0 +1,242 @@
+{
+    "data": [
+             {
+             "category": [
+                          {
+                          "title": "Burger bun",
+                          "description": "Wholegrain bun or lettuce cups (such as iceberg)",
+                          "is_recipe_available": "Yes",
+                          "recipe_id": "231"
+                          },
+                          {
+                          "title": "Cereal",
+                          "description": "Homemade JSHealth Granola, Homemade Seed Cereal or Bircher Muesli",
+                          "is_recipe_available": "Yes",
+                          "recipe_id": "39"
+                          },
+                          {
+                          "title": "Pizza",
+                          "description": "Lebanese bread base or Cauliflower Pizza",
+                          "is_recipe_available": "Yes",
+                          "recipe_id": "218"
+                          },
+                          {
+                          "title": "White rice",
+                          "description": "Brown rice, basmati rice, quinoa or Cauliflower Rice",
+                          "is_recipe_available": "Yes",
+                          "recipe_id": "322"
+                          },
+                          {
+                          "title": "White pasta",
+                          "description": "Zucchini noodles, brown rice pasta, pulse pasta or mung bean pasta",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          },
+                          {
+                          "title": "Crackers",
+                          "description": "Brown rice crackers or Flaxseed crackers",
+                          "is_recipe_available": "Yes",
+                          "recipe_id": "84"
+                          },
+                          {
+                          "title": "White bread",
+                          "description": "Sourdough, rye, wholegrain or JSHealth Gluten-Free Bread",
+                          "is_recipe_available": "Yes",
+                          "recipe_id": "94"
+                          },
+                          {
+                          "title": "Ice-cream",
+                          "description": "Homemade Banana Nice-Cream",
+                          "is_recipe_available": "Yes",
+                          "recipe_id": "241"
+                          }
+                          ]
+             },
+             {
+             "category": [
+                          {
+                          "title": "White rice",
+                          "description": "Brown rice, basmati rice, quinoa or Cauliflower Rice",
+                          "is_recipe_available": "Yes",
+                          "recipe_id": "322"
+                          },
+                          {
+                          "title": "Potato chips",
+                          "description": "Roasted sweet potato wedges",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          },
+                          {
+                          "title": "Mashed potato",
+                          "description": "Cauliflower or broccoli mash",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          },
+                          {
+                          "title": "White pasta",
+                          "description": "Wholegrain pasta, brown rice pasta or Zucchini Pasta (Tomato & Basil Zucchini Pasta)",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          },
+                          {
+                          "title": "White bread",
+                          "description": "Sourdough, rye, wholegrain or seed crackers",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          }
+                          ]
+             },
+             {
+             "category": [
+                          {
+                          "title": "Tomato sauce (ketchup)",
+                          "description": "Organic Napoletana sauce (no added sugar) or passata ",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          },
+                          {
+                          "title": "Salad dressings",
+                          "description": "Extra virgin olive oil, lemon juice, Dijon mustard, tahini, hummus or Homemade Salad Dressing",
+                          "is_recipe_available": "Yes",
+                          "recipe_id": "337"
+                          },
+                          {
+                          "title": "Mayonnaise",
+                          "description": "Smashed avocado, Dijon mustard or Greek yoghurt",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          }
+                          ]
+             },
+             {
+             "category": [
+                          {
+                          "title": "Cow’s milk",
+                          "description": "Almond or coconut milk if you are intolerant to cow’s milk",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          },
+                          {
+                          "title": "Hard cheese",
+                          "description": "Cashew cheese, ricotta or goat’s cheese",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          },
+                          {
+                          "title": "Yoghurt",
+                          "description": "Organic cow’s milk yoghurt, Greek yoghurt or coconut yoghurt",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          }
+                          ]
+             },
+             {
+             "category": [
+                          {
+                          "title": "Milk chocolate",
+                          "description": "70–85% dark chocolate",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          },
+                          {
+                          "title": "White flour",
+                          "description": "Almond meal, coconut flour, oat flour, wholemeal or spelt flour",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          },
+                          {
+                          "title": "Refined white sugar",
+                          "description": "Natural sweeteners such as stevia, maple syrup, coconut sugar or raw honey*\n\n*Moderation rule still applies: 1–2 tsp a day is enough.",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          },
+                          {
+                          "title": "1 egg",
+                          "description": "1 tbsp chia plus 3 tbsp water, stir to combine and allow to sit for 10 minutes",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          }
+                          ]
+             },
+             {
+             "category": [
+                          {
+                          "title": "Diet soda",
+                          "description": "Sparkling water with fresh lemon and mint",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          },
+                          {
+                          "title": "Milkshake",
+                          "description": "Choc-Bounty Milkshake",
+                          "is_recipe_available": "Yes",
+                          "recipe_id": "83"
+                          },
+                          {
+                          "title": "Sweetened, pre-packaged juice",
+                          "description": "Fresh veggie juice",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          },
+                          {
+                          "title": "Sports drinks",
+                          "description": "Kombucha",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          },
+                          {
+                          "title": "Fruit juice",
+                          "description": "Fresh coconut water",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          }
+                          ]
+             },
+             {
+             "category": [
+                          {
+                          "title": "Pasta",
+                          "description": "Zoodles (zucchini noodles), mung bean pasta, pulse pasta, brown rice pasta, Konjac noodles",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          },
+                          {
+                          "title": "Bread",
+                          "description": "Gluten-free bread, flaxseed crackers, brown rice cakes or JSHealth Gluten-Free Bread",
+                          "is_recipe_available": "Yes",
+                          "recipe_id": "94"
+                          },
+                          {
+                          "title": "Cereal",
+                          "description": "Chia pudding, homemade granola, buckwheat or Quinoa Porridge",
+                          "is_recipe_available": "Yes",
+                          "recipe_id": "89"
+                          },
+                          {
+                          "title": "White flour",
+                          "description": "Almond meal, coconut flour, oat flour or buckwheat flour",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          },
+                          {
+                          "title": "Crackers",
+                          "description": "Brown rice cakes or seed crackers",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          },
+                          {
+                          "title": "Pizza",
+                          "description": "Cauliflower pizza",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          },
+                          {
+                          "title": "Condiments",
+                          "description": "Tamari, extra virgin olive oil, lemon juice, apple cider vinegar, Dijon mustard, fresh herbs or dried spices",
+                          "is_recipe_available": "No",
+                          "recipe_id": ""
+                          }
+                          ]
+             }
+             ]
+}

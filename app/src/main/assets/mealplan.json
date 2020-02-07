@@ -1,0 +1,465 @@
+{
+  "data": [
+    {
+      "meal_title": "Start with a fresh base",
+      "jess_comment": "I love a crunch factor. Add this as the base or serve as a side to your meal.\n2-3 cups of greens or salad leaves of choice (fresh or sautéed).",
+      "tips": "2-3 cups of greens or salad leaves of choice (fresh or sautéed).",
+      "button_title": "Add fresh base",
+      "single_selection": "false",
+      "selected_ingredient": "",
+      "selected_ingredient_id": "",
+      "ingredient": [
+        {
+          "title": "Rocket",
+          "description": "(arugula)",
+          "isSelected": false,
+          "ingredientid": "1",
+          "img_id": "1",
+          "img": "rocket_buid"
+        },
+        {
+          "title": "Iceberg Lettuce",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "2",
+          "img_id": "2",
+          "img": "iceberg_lettuce_buid"
+        },
+        {
+          "title": "Baby Spinach",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "3",
+          "img_id": "3",
+          "img": "baby_spinach_buid"
+        },
+        {
+          "title": "Cos lettuce",
+          "description": "(romaine)",
+          "isSelected": false,
+          "ingredientid": "4",
+          "img_id": "4",
+          "img": "cos_lettuce_buid"
+        },
+        {
+          "title": "Mixed Lettuce",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "5",
+          "img_id": "5",
+          "img": "mixed_lettuce_buid"
+        },
+        {
+          "title": "Kale, chopped",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "6",
+          "img_id": "6",
+          "img": "kale_buid"
+        }
+      ]
+    },
+    {
+      "meal_title": "Add some tasty veggies",
+      "jess_comment": "They make my meals extra delish and are full of fibre.\n1 cup of colourful vegetables (raw or cooked).",
+      "tips": "1 cup of colourful vegetables (raw or cooked).",
+      "button_title": "Add tasty veggies",
+      "single_selection": "false",
+      "selected_ingredient": "",
+      "selected_ingredient_id": "",
+      "ingredient": [
+        {
+          "title": "Fresh baby tomatoes",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "1",
+          "img_id": "7",
+          "img": "baby_tomato_buid"
+        },
+        {
+          "title": "Sliced cucumber",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "2",
+          "img_id": "8",
+          "img": "cucumber_buid"
+        },
+        {
+          "title": "Cabbage, shredded",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "3",
+          "img_id": "9",
+          "img": "cabbage_buid"
+        },
+        {
+          "title": "Carrots, grated",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "4",
+          "img_id": "10",
+          "img": "roast_carrots_buid"
+        },
+        {
+          "title": "Red (Spanish) onion, diced",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "5",
+          "img_id": "11",
+          "img": "red_onion_buid"
+        },
+        {
+          "title": "Roasted broccoli",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "6",
+          "img_id": "12",
+          "img": "roast_broccoli_build"
+        },
+        {
+          "title": "Roasted spiced cauliflower",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "7",
+          "img_id": "13",
+          "img": "roast_cauliflower_buid"
+        },
+        {
+          "title": "Roasted carrot chips",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "8",
+          "img_id": "14",
+          "img": "raw_carrot_buid"
+        },
+        {
+          "title": "Roasted zucchini strips (courgette)",
+          "description": "(courgette)",
+          "isSelected": false,
+          "ingredientid": "9",
+          "img_id": "15",
+          "img": "roasted_zucchini_buid"
+        },
+        {
+          "title": "Grilled eggplant strips (aubergine)",
+          "description": "(aubergine)",
+          "isSelected": false,
+          "ingredientid": "10",
+          "img_id": "16",
+          "img": "roast_eggplant_buid"
+        },
+        {
+          "title": "Cauliflower rice",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "11",
+          "img_id": "17",
+          "img": "cauli_rice_buid"
+        }
+      ]
+    },
+    {
+      "meal_title": "Choose a protein",
+      "jess_comment": "To keep blood sugar levels stable and cravings at bay.\nAim for a serving around the same size as your palm, and choose organic where possible.",
+      "tips": "About 150g of cooked protein, or the size of your palm. Organic is best.",
+      "button_title": "Add protein",
+      "single_selection": "true",
+      "selected_ingredient": "",
+      "selected_ingredient_id": "",
+      "ingredient": [
+        {
+          "title": "Chicken or turkey breast",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "1",
+          "img_id": "18",
+          "img": "chicken_buid"
+        },
+        {
+          "title": "Grilled fish",
+          "description": "(white fish, wild salmon, barramundi, snapper)",
+          "isSelected": false,
+          "ingredientid": "2",
+          "img_id": "19",
+          "img": "salmon_buid"
+        },
+        {
+          "title": "2 eggs",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "3",
+          "img_id": "20",
+          "img": "eggs_build"
+        },
+        {
+          "title": "Grass-fed meat (beef or lamb)",
+          "description": "(beef of lamb)",
+          "isSelected": false,
+          "ingredientid": "4",
+          "img_id": "21",
+          "img": "beef_buid"
+        },
+        {
+          "title": "1 cup of veggie protein (lentils, beans or a mix)",
+          "description": "(lentils, beans, pulses or a mix)",
+          "isSelected": false,
+          "ingredientid": "5",
+          "img_id": "22",
+          "img": "lentils_build"
+        },
+        {
+          "title": "Tempeh or tofu (100-150g)",
+          "description": "(100g)",
+          "isSelected": false,
+          "ingredientid": "6",
+          "img_id": "23",
+          "img": "tempeh_buid"
+        }
+      ]
+    },
+    {
+      "meal_title": "Select a quality carb",
+      "jess_comment": "Slow-releasing, high fibre carbs are great for energy.\nAim for ½ a cup cooked or ¼ of your plate.",
+      "tips": "1/2 a cup cooked is a good portion size or 1/4 of your plate.",
+      "button_title": "Add carb",
+      "single_selection": "true",
+      "selected_ingredient": "",
+      "selected_ingredient_id": "",
+      "ingredient": [
+        {
+          "title": "Roasted or baked sweet potato",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "1",
+          "img_id": "24",
+          "img": "sweet_potato_buid"
+        },
+        {
+          "title": "Roasted pumpkin or squash",
+          "description": "(squash)",
+          "isSelected": false,
+          "ingredientid": "2",
+          "img_id": "25",
+          "img": "roast_pumpkin_build"
+        },
+        {
+          "title": "Roasted beetroot",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "3",
+          "img_id": "26",
+          "img": "beetroot_buid"
+        },
+        {
+          "title": "Boiled rice (basmati or brown)",
+          "description": "(basmati or brown)",
+          "isSelected": false,
+          "ingredientid": "4",
+          "img_id": "27",
+          "img": "brown_rice_quinoa_build"
+        },
+        {
+          "title": "Boiled quinoa",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "5",
+          "img_id": "28",
+          "img": "brown_rice_quinoa_build"
+        },
+        {
+          "title": "Organic lentils or beans",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "6",
+          "img_id": "29",
+          "img": "lentils_build"
+        },
+        {
+          "title": "Sourdough bread, wholegrain or gluten-free (1 slice)",
+          "description": "(such as brown rice or mung bean pasta)",
+          "isSelected": false,
+          "ingredientid": "7",
+          "img_id": "30",
+          "img": "bread_buid"
+        },
+        {
+          "title": "Wholemeal pasta, brown rice pasta, mung bean pasta",
+          "description": "(such as brown rice or mung bean pasta)",
+          "isSelected": false,
+          "ingredientid": "8",
+          "img_id": "31",
+          "img": "pasta_build"
+        }
+      ]
+    },
+    {
+      "meal_title": "Add a healthy fat",
+      "jess_comment": "This will help to keep you feeling full and satiated.",
+      "tips": "2 tbsp",
+      "button_title": "Add healthy fats",
+      "single_selection": "true",
+      "selected_ingredient": "",
+      "selected_ingredient_id": "",
+      "ingredient": [
+        {
+          "title": "¼ - ½ an avocado, sliced or smashed",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "1",
+          "img_id": "32",
+          "img": "avocado_buid"
+        },
+        {
+          "title": "Drizzle of flaxseed oil, extra virgin olive oil or tahini (1 tbsp)",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "2",
+          "img_id": "33",
+          "img": "no_img"
+        },
+        {
+          "title": "Sprinkle of roasted almonds or pumpkin seeds (1 tbsp)",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "3",
+          "img_id": "34",
+          "img": "nuts_seeds_buid"
+        },
+        {
+          "title": "Crumbled feta or goat’s cheese (1 tbsp)",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "4",
+          "img_id": "35",
+          "img": "feta_buid"
+        },
+        {
+          "title": "Use extra virgin olive oil to cook your veggies",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "5",
+          "img_id": "36",
+          "img": "no_img"
+        }
+      ]
+    },
+    {
+      "meal_title": "A drizzle of dressing",
+      "jess_comment": "This is a delicious way to get bonus nutrients!\nAim for around 1-2 tbsp per serve. You can find all my favourite dressings in the Recipes Section.",
+      "tips": "2 tbsp or 1⁄3 cup. You can find all my favourite dressings in the Recipes section.",
+      "button_title": "Add healthy sauce",
+      "single_selection": "true",
+      "selected_ingredient": "",
+      "selected_ingredient_id": "",
+      "ingredient": [
+        {
+          "title": "JSHealth Clean Life Dressing",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "1",
+          "img_id": "37",
+          "img": "no_img"
+        },
+        {
+          "title": "JSHealth Healthy Satay Sauce",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "2",
+          "img_id": "38",
+          "img": "no_img"
+        },
+        {
+          "title": "JSHealth Miso Dressing",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "3",
+          "img_id": "39",
+          "img": "no_img"
+        },
+        {
+          "title": "Lemon juice or balsamic vinegar with extra virgin olive oil",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "4",
+          "img_id": "40",
+          "img": "no_img"
+        },
+        {
+          "title": "A drizzle of hummus or some tahini dip",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "5",
+          "img_id": "41",
+          "img": "no_img"
+        }
+      ]
+    },
+    {
+      "meal_title": "Add extra yummies",
+      "jess_comment": "This is the best part of the whole process.",
+      "tips": "",
+      "button_title": "Add yumminess",
+      "single_selection": "false",
+      "selected_ingredient": "",
+      "selected_ingredient_id": "",
+      "ingredient": [
+        {
+          "title": "Add a sprinkle of nutritional yeast",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "1",
+          "img_id": "42",
+          "img": "no_img"
+        },
+        {
+          "title": "Use some curry powder to flavour veggies",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "2",
+          "img_id": "43",
+          "img": "no_img"
+        },
+        {
+          "title": "Add a pinch of chilli flakes",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "3",
+          "img_id": "44",
+          "img": "red_onion_buid"
+        },
+        {
+          "title": "Sprinkle sliced red (Spanish) onion over meals for extra crunch",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "4",
+          "img_id": "45",
+          "img": "no_img"
+        },
+        {
+          "title": "Season with sea salt or Himalayan salt",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "5",
+          "img_id": "46",
+          "img": "no_img"
+        },
+        {
+          "title": "Add a sprinkle of mixed spices for extra flavour",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "6",
+          "img_id": "47",
+          "img": "no_img"
+        },
+        {
+          "title": "Drizzle lemon juice over your meal",
+          "description": "",
+          "isSelected": false,
+          "ingredientid": "7",
+          "img_id": "48",
+          "img": "no_img"
+        }
+      ]
+    }
+  ]
+}
